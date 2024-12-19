@@ -14,7 +14,7 @@
         android:text="@string/mainText"
         android:textSize="40sp"
         android:textStyle="bold"
-        android:layout_marginTop="-50dp"
+        android:layout_marginTop="-100dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
